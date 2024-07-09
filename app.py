@@ -66,7 +66,7 @@ footer="""
     </style>
 
     <div class="footer">
-        <p>Developed with ❤ by <a href="https://www.linkedin.com/in/sgvkamalakar" target="_blank">vbs</a></p>
+        <p>Developed with ❤ by <a href="68.233.118.86" target="_blank">vbs</a></p>
     </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
